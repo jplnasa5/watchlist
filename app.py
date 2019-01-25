@@ -41,7 +41,7 @@ from flask import url_for
 
 
 
-name = 'Grey Li'
+name = 'Sisyphus'
 movies = [
     {'title': 'My Neighbor Totoro', 'year': '1988'},
     {'title': 'Dead Poets Society', 'year': '1989'},
